@@ -1,0 +1,6 @@
+Tyler Stone
+CSE 3521 Programming Assignment 3
+Professor Robert Finn
+7/21/15
+
+The least k for my graph is: 15
